@@ -1,0 +1,12 @@
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\ContactInformationCore.dll.config
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\ContactInformationCore.dll
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\ContactInformationCore.pdb
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\EntityFramework.dll
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\EntityFramework.xml
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\obj\Debug\ContactInformationCore.csprojAssemblyReference.cache
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\obj\Debug\ContactInformationCore.csproj.CoreCompileInputs.cache
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\obj\Debug\ContactInformationCore.csproj.CopyComplete
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\obj\Debug\ContactInformationCore.dll
+C:\Users\prakash.nangare\Desktop\Empty\ContactInformation\ContactInformationCore\obj\Debug\ContactInformationCore.pdb
